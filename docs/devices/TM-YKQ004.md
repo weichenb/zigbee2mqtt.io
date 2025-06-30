@@ -23,8 +23,10 @@ pageClass: device-page
 
 
 <!-- Notes BEGIN: You can edit here. Add "## Notes" headline if not already present. -->
+## Notes
 
-
+### Reset/Re-pairing
+Long press any key for about 10 seconds until the indicator light starts to flash.
 <!-- Notes END: Do not edit below this line -->
 
 
